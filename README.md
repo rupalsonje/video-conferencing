@@ -1,9 +1,5 @@
-# webrtc-video-chat
+# video-conferencing app
 
-### How To Install
-Step  | Action
-------------- | -------------
-1  | clone
-2  | npm install
-3  | npm run signalhub (to start the signaling server)
-4  | npm start (to start development server)
+1. npm install
+2. npm run signalhub
+3. npm start
